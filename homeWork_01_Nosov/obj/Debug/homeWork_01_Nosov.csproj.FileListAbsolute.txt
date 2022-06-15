@@ -1,0 +1,8 @@
+D:\work\homeWork_01\homeWork_01_Nosov\bin\Debug\homeWork_01_Nosov.exe.config
+D:\work\homeWork_01\homeWork_01_Nosov\bin\Debug\homeWork_01_Nosov.exe
+D:\work\homeWork_01\homeWork_01_Nosov\bin\Debug\homeWork_01_Nosov.pdb
+D:\work\homeWork_01\homeWork_01_Nosov\obj\Debug\homeWork_01_Nosov.csproj.AssemblyReference.cache
+D:\work\homeWork_01\homeWork_01_Nosov\obj\Debug\homeWork_01_Nosov.csproj.SuggestedBindingRedirects.cache
+D:\work\homeWork_01\homeWork_01_Nosov\obj\Debug\homeWork_01_Nosov.csproj.CoreCompileInputs.cache
+D:\work\homeWork_01\homeWork_01_Nosov\obj\Debug\homeWork_01_Nosov.exe
+D:\work\homeWork_01\homeWork_01_Nosov\obj\Debug\homeWork_01_Nosov.pdb
