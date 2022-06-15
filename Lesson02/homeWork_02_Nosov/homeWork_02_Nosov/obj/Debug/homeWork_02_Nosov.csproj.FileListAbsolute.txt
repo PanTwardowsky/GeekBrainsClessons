@@ -1,0 +1,11 @@
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\bin\Debug\homeWork_02_Nosov.exe.config
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\bin\Debug\homeWork_02_Nosov.exe
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\bin\Debug\homeWork_02_Nosov.pdb
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\bin\Debug\Nosov.Utils.dll
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\bin\Debug\Nosov.Utils.pdb
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\obj\Debug\homeWork_02_Nosov.csproj.AssemblyReference.cache
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\obj\Debug\homeWork_02_Nosov.csproj.SuggestedBindingRedirects.cache
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\obj\Debug\homeWork_02_Nosov.csproj.CoreCompileInputs.cache
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\obj\Debug\homeWork_02_Nosov.csproj.CopyComplete
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\obj\Debug\homeWork_02_Nosov.exe
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\homeWork_02_Nosov\obj\Debug\homeWork_02_Nosov.pdb

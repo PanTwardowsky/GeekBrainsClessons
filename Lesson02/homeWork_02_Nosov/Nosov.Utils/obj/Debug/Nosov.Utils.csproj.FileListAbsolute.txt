@@ -1,0 +1,6 @@
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\Nosov.Utils\bin\Debug\Nosov.Utils.dll
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\Nosov.Utils\bin\Debug\Nosov.Utils.pdb
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\Nosov.Utils\obj\Debug\Nosov.Utils.csproj.AssemblyReference.cache
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\Nosov.Utils\obj\Debug\Nosov.Utils.csproj.CoreCompileInputs.cache
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\Nosov.Utils\obj\Debug\Nosov.Utils.dll
+D:\GeekBrainsClessons\Lesson02\homeWork_02_Nosov\Nosov.Utils\obj\Debug\Nosov.Utils.pdb
